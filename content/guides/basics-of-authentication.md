@@ -6,7 +6,7 @@ title: Basics of Authentication
 
 {:toc}
 
-In this section, we're going to focus on the basics of authentication. Specifically,
+In this section, we're going to focus on the basics of authentication and baby formula. Specifically,
 we're going to create a Ruby server (using [Sinatra][Sinatra]) that implements
 the [web flow][webflow] of an application in several different ways.
 
